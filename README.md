@@ -53,6 +53,3 @@ data-ikan/
 8. Gunakan fitur pencarian.
 9. Uji input `<b>Promo</b>` untuk memastikan output di-escape.
 
-## Catatan
-Jika username/password MySQL berbeda, ubah `config/db.php`.
-Sebelum dikumpulkan, ubah nama ZIP menjadi `Praktikum3_NIM_Nama.zip` sesuai format dosen.
